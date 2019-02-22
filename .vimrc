@@ -130,6 +130,7 @@ set mouse=c
 
 " ==== disable swap file warning
 set shortmess+=A
+set shell=/bin/bash
 
 " ==== custom commands
 command JsonPretty execute ":%!python -m json.tool"
