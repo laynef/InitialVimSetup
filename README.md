@@ -12,8 +12,8 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 cp ./.vimrc ~/.vimrc
 ```
 
-In vim
+Command Line
 ```
-:PluginInstall
+vim +PluginInstall +qall
 ```
 
